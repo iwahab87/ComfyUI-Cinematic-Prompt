@@ -45,12 +45,9 @@ git clone [https://github.com/yedp123/ComfyUI-Cinematic-Prompt.git](https://gith
 2. Connect Inputs: Connect your Checkpoint's CLIP output to the node's clip input.
 
 3. Connect Outputs:
-
-4. Connect positive to your KSampler's positive input.
-
-5. Connect negative to your KSampler's negative input.
-
-6. Create: Use the visual interface to build your scene!
+Connect positive to your KSampler's positive input.
+Connect negative to your KSampler's negative input.
+Create: Use the visual interface to build your scene!
 
 --------------------------------------------------------------------------
 
