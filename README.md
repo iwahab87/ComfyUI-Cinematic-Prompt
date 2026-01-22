@@ -6,7 +6,7 @@ A visual, user-friendly prompt builder for ComfyUI that allows you to construct 
 Originally designed as a self learning tool to generate cinematic prompts (https://yedp123.github.io/), I decided to port it to ComfyUI as well.
 Designed originally with Midjourney, Stable Diffusion, Nanobanana pro and Flux workflows in mind.
 
-<img width="1746" height="800" alt="14b5a7c66e5b9c8ed62599a73055fbdc" src="https://github.com/user-attachments/assets/08cb73e7-71d6-41cb-9a7d-9dec288e08d3" />
+<img width="1524" height="881" alt="b711b6d7d05c7df51b0d71c19e74bf61" src="https://github.com/user-attachments/assets/d0b7eb4b-03db-47da-a74b-65c760d1b9de" />
 
 --------------------------------------------------------------------------
 
